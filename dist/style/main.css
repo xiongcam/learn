@@ -1,0 +1,1 @@
+body h1:nth-child(odd){padding:10px;color:pink;font-size:24px}body{background:#eee}body h1:nth-child(2n){font-size:40px;color:#999}
